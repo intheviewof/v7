@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>melanvision /posts/</title>
+  <description>A handmade RSS feed of everything</description>
+  <link>https://melanvisions.neocities.org/posts</link>
+  <lastBuildDate>
+    Tue, 27 Jan 2026 17:21:35  -0400
+  </lastBuildDate>
+  <ttl>20000</ttl>
+
+  <item>
+  <title>Post #1</title>
+  <description>
+    My first post!
+  </description>
+  <link>https://melanvisions.neocities.org/posts</link>
+  <pubDate>
+    Tue, 27 Jan 2026 17:18:14 -0400
+  </pubDate>
+</item>
+</channel>
+</rss>
