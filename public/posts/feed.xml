@@ -10,13 +10,24 @@
   <ttl>20000</ttl>
 
   <item>
+  <title>Post #2</title>
+  <description>
+    Been very self reflective since this December. In good ways and bad ways. I hope people can appreciate the things I do as much as I appreciate what they do for me.
+  </description>
+  <link>https://melanvisions.neocities.org/posts</link>
+  <pubDate>
+    Thu, 29 Jan 2026 03:19:12 -0400
+  </pubDate>
+</item>
+
+  <item>
   <title>Post #1</title>
   <description>
     My first post!
   </description>
   <link>https://melanvisions.neocities.org/posts</link>
   <pubDate>
-    Tue, 27 Jan 2026 17:18:14 -0400
+    Thu, 29 Jan 2026 03:20:57 -0400
   </pubDate>
 </item>
 </channel>
